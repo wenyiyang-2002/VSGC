@@ -39,5 +39,11 @@ Experimental Results
 ![aapm](https://github.com/user-attachments/assets/84d92370-601a-49dc-9034-fbd45a8c967b)
 
 Other Related Projects
-SWARM:Physics-informed DeepCT: Sinogram Wavelet Decomposition Meets Masked Diffusion https://github.com/yqx7150/SWARM.git
-SWORD:Stage-by-stage Wavelet Optimization Refinement Diffusion Model for Sparse-View CT Reconstruction https://github.com/yqx7150/SWORD.git
+SWARM:Physics-informed DeepCT: Sinogram Wavelet Decomposition Meets Masked Diffusion 
+https://arxiv.org/abs/2501.09935
+https://github.com/yqx7150/SWARM.git
+
+
+SWORD:Stage-by-stage Wavelet Optimization Refinement Diffusion Model for Sparse-View CT Reconstruction 
+https://ieeexplore.ieee.org/abstract/document/10403850?casa_token=zIecPw7hm1IAAAAA:rVQFq4tyoE0OyPP9E7jTB01LMRpuYf3siYgnYieNN3_R90r207Yn0LZE6G0UKK7ybuGDzN2D5vbAF38
+https://github.com/yqx7150/SWORD.git
