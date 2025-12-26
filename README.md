@@ -1,5 +1,7 @@
 # VSGC
+
 **Paper:** Visible Singularitites Guided Multi-scale Correlation Modeling Network for Limited-Angle CT Reconstruction
+
 **Authors:** Yiyang Wen, Liu Shi, Zekun Zhou, WenZhe Shan, Qiegen Liu
 
 Unpublished
@@ -31,15 +33,15 @@ effectiveness and feasibility of the proposed design.
 
 **Diagram of Microlocal Regularity Theorem**
 
--<img width="698" height="601" alt="da83018b417e9241cab6c49c7c374f5c" src="https://github.com/user-attachments/assets/14437471-1a0d-4d14-a9b9-84eb0a9626aa" />
+<img width="698" height="601" alt="da83018b417e9241cab6c49c7c374f5c" src="https://github.com/user-attachments/assets/14437471-1a0d-4d14-a9b9-84eb0a9626aa" />
 
 **The network was designed inspired by the Diagram of the microlocal regularity theorem.**
 
--<img width="1385" height="623" alt="2958fed2159a56319f7817cb729bad04" src="https://github.com/user-attachments/assets/b7e4ae40-f3c4-4cc7-8cca-bb129fa778ad" />
+<img width="1385" height="623" alt="2958fed2159a56319f7817cb729bad04" src="https://github.com/user-attachments/assets/b7e4ae40-f3c4-4cc7-8cca-bb129fa778ad" />
 
 **Experimental Results**
 
--![aapm](https://github.com/user-attachments/assets/84d92370-601a-49dc-9034-fbd45a8c967b)
+![aapm](https://github.com/user-attachments/assets/84d92370-601a-49dc-9034-fbd45a8c967b)
 
 **Other Related Projects**
 
