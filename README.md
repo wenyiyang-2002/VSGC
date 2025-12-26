@@ -29,21 +29,24 @@ effectiveness and feasibility of the proposed design.
 
 <img width="1038" height="829" alt="898c39640f03a60140419b6cf753258c" src="https://github.com/user-attachments/assets/69107e1e-5586-40ba-9338-8b6d858e3ac5" />
 
-##Diagram of Microlocal Regularity Theorem
+**Diagram of Microlocal Regularity Theorem**
+
 -<img width="698" height="601" alt="da83018b417e9241cab6c49c7c374f5c" src="https://github.com/user-attachments/assets/14437471-1a0d-4d14-a9b9-84eb0a9626aa" />
 
-##The network was designed inspired by the Diagram of the microlocal regularity theorem.
+**The network was designed inspired by the Diagram of the microlocal regularity theorem.**
+
 -<img width="1385" height="623" alt="2958fed2159a56319f7817cb729bad04" src="https://github.com/user-attachments/assets/b7e4ae40-f3c4-4cc7-8cca-bb129fa778ad" />
 
-##Experimental Results
+**Experimental Results**
+
 -![aapm](https://github.com/user-attachments/assets/84d92370-601a-49dc-9034-fbd45a8c967b)
 
-##Other Related Projects
+**Other Related Projects**
 
--SWARM:Physics-informed DeepCT: Sinogram Wavelet Decomposition Meets Masked Diffusion 
+SWARM:Physics-informed DeepCT: Sinogram Wavelet Decomposition Meets Masked Diffusion 
 [paper](https://arxiv.org/abs/2501.09935)
 [code](https://github.com/yqx7150/SWARM.git)
 
--SWORD:Stage-by-stage Wavelet Optimization Refinement Diffusion Model for Sparse-View CT Reconstruction 
+SWORD:Stage-by-stage Wavelet Optimization Refinement Diffusion Model for Sparse-View CT Reconstruction 
 [paper](https://ieeexplore.ieee.org/abstract/document/10403850?casa_token=zIecPw7hm1IAAAAA:rVQFq4tyoE0OyPP9E7jTB01LMRpuYf3siYgnYieNN3_R90r207Yn0LZE6G0UKK7ybuGDzN2D5vbAF38)
 [code](https://github.com/yqx7150/SWORD.git)
