@@ -26,7 +26,19 @@ function is employed to constrain the model to converge in
 multiple aspects. Finally, qualitative and quantitative validations
 are conducted on both simulated and real datasets to verify the
 effectiveness and feasibility of the proposed design.
-<img width="3113" height="2020" alt="limited-angle" src="https://github.com/user-attachments/assets/9cf03936-45b5-4912-8a65-dd0f00486afb" />
+
+<img width="1038" height="829" alt="898c39640f03a60140419b6cf753258c" src="https://github.com/user-attachments/assets/69107e1e-5586-40ba-9338-8b6d858e3ac5" />
+
+Diagram of Microlocal Regularity Theorem
+<img width="698" height="601" alt="da83018b417e9241cab6c49c7c374f5c" src="https://github.com/user-attachments/assets/14437471-1a0d-4d14-a9b9-84eb0a9626aa" />
+
+The network was designed inspired by the Diagram of the microlocal regularity theorem.
+<img width="1385" height="623" alt="2958fed2159a56319f7817cb729bad04" src="https://github.com/user-attachments/assets/b7e4ae40-f3c4-4cc7-8cca-bb129fa778ad" />
+
+Experimental Results
+![aapm](https://github.com/user-attachments/assets/84d92370-601a-49dc-9034-fbd45a8c967b)
+
+Other Related Projects
 
 
 This is a deep learning network designed to consider the characteristics of limited angular imaging (with directional anisotropy) and is used for the reconstruction of LACT.
