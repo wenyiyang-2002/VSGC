@@ -39,6 +39,5 @@ Experimental Results
 ![aapm](https://github.com/user-attachments/assets/84d92370-601a-49dc-9034-fbd45a8c967b)
 
 Other Related Projects
-
-
-This is a deep learning network designed to consider the characteristics of limited angular imaging (with directional anisotropy) and is used for the reconstruction of LACT.
+SWARM:Physics-informed DeepCT: Sinogram Wavelet Decomposition Meets Masked Diffusion https://github.com/yqx7150/SWARM.git
+SWORD:Stage-by-stage Wavelet Optimization Refinement Diffusion Model for Sparse-View CT Reconstruction https://github.com/yqx7150/SWORD.git
